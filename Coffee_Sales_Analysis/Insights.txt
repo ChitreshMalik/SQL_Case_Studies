@@ -1,0 +1,37 @@
+Insights Generated from Powerbi Dashboard and using mysql ex.(Stored Procedures and Window Functions)
+
+Product wise Contribution	
+Top Profit Product is colombian(20.12)% profit
+Least Profit Product is Green Tea(0.14)% profit
+
+last Year the best Product which met all_target and shown best results is Darjeeling.
+
+top 6 states define 52.78% profit contribution from 21 states
+Profit market Contribtution Central-(35.58)%
+
+
+Sales Wise contribution
+Sales Market West --(33.25)%
+Top Sales Product is Colombian(15.17)%
+Top 5 product define (56.57)% Sales contribution
+Top 5 states define (42.29)% Sales contribution
+Least Sold Product is Regular Espresso(3.33)%
+
+
+Marketing
+Top Marketing Product is Coffe Mocha(15.17)%
+Top 5 product define (57.95)% marketing expenses
+Top 5 states define (42.68)% marketing expenses
+West Market(35.61%)
+Least market Product (2.23)% marketing expenses contribution
+
+
+Expenses
+Top Expensive Product is Colombian(13.54)%
+Top 5 product define (56.49)%  expenses
+Top 5 states define (36.97)%  expenses
+West Market(34.63%)
+Least market Product REGular Expresso(2.13)% Total expenses contribution
+
+
+
